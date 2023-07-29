@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Prudhvi Varma",
+      "lastName": "Vistalla",
+      "emailid": "Prudhviv.java@gmail.com",
+      "mobile": "9874512036",
+      "aadharno": "123456789012"
+    },
+    {
+      "id": 2,
+      "firstName": "Mahesh ",
+      "lastName": "kumar",
+      "emailid": "Maheshlocal@gmail.com",
+      "mobile": "9182430345",
+      "aadharno": "987410235647"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
